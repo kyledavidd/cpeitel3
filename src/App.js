@@ -111,7 +111,7 @@ function App() {
   };
 
   const whatIWantToLearnHandler = () => {
-    setDisp("I want to learn how to build functional websites that are easy to use, ensuring they work well on both mobile and desktop devices, and effectively connect the frontend and backend.");
+    setDisp("I want to learn more about ReactJS to create websites that are interactive and easy to use. I'm focusing on understanding how components work and how to manage data effectively. This will help me improve my skills and build web aplications that feel smooth and dynamic.");
   };
 
   const howWillILearnHandler = () => {
